@@ -1,0 +1,3 @@
+﻿  Kaynak.cpp
+C:\Users\oguzh\source\repos\OpenGL_Merhaba_Dünya\Kaynak.cpp(16,15): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  OpenGL_Merhaba_Dünya.vcxproj -> C:\Users\oguzh\source\repos\OpenGL_Merhaba_Dünya\Debug\OpenGL_Merhaba_Dünya.exe
